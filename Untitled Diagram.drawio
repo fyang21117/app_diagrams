@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T07:01:24.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="AMmNKY1rmXhmVk-ZZrr5" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-24T07:02:23.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="OoMyYuCiR2z2IzqGfFqT" version="13.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1343" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fbVdaYZra0Y-noZietLv-2" value="ChannelLoginManager监听登录，返回loginType、token、uid" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="320" width="175" height="50" as="geometry" />
+          <mxGeometry x="100" y="320" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fbVdaYZra0Y-noZietLv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fbVdaYZra0Y-noZietLv-3" target="fbVdaYZra0Y-noZietLv-4">
           <mxGeometry relative="1" as="geometry" />
@@ -47,16 +47,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fbVdaYZra0Y-noZietLv-10" value="HuaweiIdAuthManager华为登录服务入口获取AuthHuaweiId对象" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="420" width="176.25" height="60" as="geometry" />
+          <mxGeometry x="96.88" y="430" width="176.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fbVdaYZra0Y-noZietLv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fbVdaYZra0Y-noZietLv-15" target="fbVdaYZra0Y-noZietLv-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fbVdaYZra0Y-noZietLv-15" value="通过Player类返回游戏玩家的具体信息，回传后端映射" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="530" width="177.5" height="70" as="geometry" />
+          <mxGeometry x="96.25" y="530" width="177.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fbVdaYZra0Y-noZietLv-17" value="解析返回数据，存储用户信息token、uid、disname、uname" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="101.88" y="650" width="172.5" height="50" as="geometry" />
+          <mxGeometry x="100.94" y="640" width="168.12" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fbVdaYZra0Y-noZietLv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fbVdaYZra0Y-noZietLv-19" target="fbVdaYZra0Y-noZietLv-20">
           <mxGeometry relative="1" as="geometry" />
