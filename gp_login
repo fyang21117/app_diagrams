@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T07:23:26.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="er6d0ytoazHEyTxmclz6" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-24T07:24:33.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="UmPubC6B7VTsTd9GuzBr" version="13.5.1" type="github">
   <diagram id="nScH28VliRDAC0vmTzAo" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,14 +19,14 @@
         <mxCell id="8qiLjTWJYnD2Sd6A4FRW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8qiLjTWJYnD2Sd6A4FRW-8" target="8qiLjTWJYnD2Sd6A4FRW-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8qiLjTWJYnD2Sd6A4FRW-8" value="SqChannelHttpUtil一键注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="308.13" y="370" width="138.75" height="50" as="geometry" />
+        <mxCell id="8qiLjTWJYnD2Sd6A4FRW-8" value="SqChannelHttpUtil.fReg()一键注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="289.06" y="370" width="181.87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8qiLjTWJYnD2Sd6A4FRW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="8qiLjTWJYnD2Sd6A4FRW-9" target="8qiLjTWJYnD2Sd6A4FRW-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8qiLjTWJYnD2Sd6A4FRW-9" value="保存账号密码到CustomInfoBean" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="298.75" y="450" width="175" height="40" as="geometry" />
+          <mxGeometry x="292.5" y="450" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8qiLjTWJYnD2Sd6A4FRW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8qiLjTWJYnD2Sd6A4FRW-10" target="8qiLjTWJYnD2Sd6A4FRW-12">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="450" y="268" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8qiLjTWJYnD2Sd6A4FRW-16" value="登录、事件上报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="298.75" y="520" width="175" height="40" as="geometry" />
+          <mxGeometry x="292.5" y="520" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8qiLjTWJYnD2Sd6A4FRW-18" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="374" y="340" width="40" height="20" as="geometry" />
