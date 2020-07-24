@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T07:02:23.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="OoMyYuCiR2z2IzqGfFqT" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-24T08:19:55.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="4KzDs7qXdvbfwf3q1-KQ" version="13.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1343" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="973" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fbVdaYZra0Y-noZietLv-19" value="GpLoginManager初始化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="140" width="175" height="40" as="geometry" />
+          <mxGeometry x="503.75" y="130" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fbVdaYZra0Y-noZietLv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fbVdaYZra0Y-noZietLv-20" target="fbVdaYZra0Y-noZietLv-21">
           <mxGeometry relative="1" as="geometry" />
