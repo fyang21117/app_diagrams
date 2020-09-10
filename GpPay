@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T11:15:22.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="t3sBVsCWSOTBkjXAm2xW" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T11:19:05.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="PjJtrs7e7e9E5fkiE-Z2" version="13.6.5" type="github">
   <diagram id="uvZArFeya0xVtIMa75pf" name="Page-1">
-    <mxGraphModel dx="1978" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1633" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,16 +80,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-1" value="&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px&quot;&gt;GooglePayWay.handlePayPurchase()&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="77.25" y="450" width="251.5" height="36.25" as="geometry" />
+          <mxGeometry x="77.25" y="450" width="262.75" height="36.25" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JFbzTSCU8OPhIG96BT4j-2" target="JFbzTSCU8OPhIG96BT4j-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JFbzTSCU8OPhIG96BT4j-2" target="JFbzTSCU8OPhIG96BT4j-86">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="578" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SqPayHelper.saveOrder()&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="569.9999999999999" width="250" height="32.5" as="geometry" />
+          <mxGeometry x="80" y="570" width="260" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JFbzTSCU8OPhIG96BT4j-4">
           <mxGeometry relative="1" as="geometry">
@@ -97,19 +101,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JFbzTSCU8OPhIG96BT4j-4" target="JFbzTSCU8OPhIG96BT4j-90">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="632" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;GooglePayHelper.consumePurchase()&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="78" y="621.9999999999999" width="260" height="32.5" as="geometry" />
+          <mxGeometry x="78" y="622" width="262" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JFbzTSCU8OPhIG96BT4j-6" target="JFbzTSCU8OPhIG96BT4j-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="691" />
+              <mxPoint x="60" y="691" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JFbzTSCU8OPhIG96BT4j-6" target="JFbzTSCU8OPhIG96BT4j-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SqPayHelper.consumeOrders()&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="79" y="673" width="255" height="32.5" as="geometry" />
+          <mxGeometry x="79" y="673" width="261" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JFbzTSCU8OPhIG96BT4j-8">
           <mxGeometry relative="1" as="geometry">
@@ -120,7 +133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SqPayHelper.verifyPurchase()&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="78" y="729.9999999999999" width="255" height="32.5" as="geometry" />
+          <mxGeometry x="78" y="730" width="262" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="JFbzTSCU8OPhIG96BT4j-8">
           <mxGeometry relative="1" as="geometry">
@@ -128,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;GooglePayHttpUtil.vertifyAndDiliver()&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="77.25" y="786.9999999999999" width="252.25" height="32.5" as="geometry" />
+          <mxGeometry x="77.25" y="787" width="262.75" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-11" value="消耗成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-48.5" y="672.9999999999999" width="65" height="36.25" as="geometry" />
@@ -199,7 +212,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-59" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;GooglePayHttpUtil.spay()&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="303.75" width="247" height="30" as="geometry" />
+          <mxGeometry x="440" y="303.75" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-60" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;s层下单&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="270" width="70" height="30" as="geometry" />
@@ -208,7 +221,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-62" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;GooglePayHelper.orderGP()&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="451.5" y="353.75" width="248.5" height="30" as="geometry" />
+          <mxGeometry x="440" y="353.75" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-64" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;gp下单&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="353.75" width="70" height="30" as="geometry" />
@@ -217,7 +230,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-65" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;BillingClient.querySkuDetailsAsync()&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="406.25" width="248.5" height="30" as="geometry" />
+          <mxGeometry x="440" y="406.25" width="258.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-66" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;查询商品详情&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="410" width="87" height="30" as="geometry" />
@@ -226,7 +239,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-67" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;BillingClient.launchBillingFlow()&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="452.5" width="248.5" height="30" as="geometry" />
+          <mxGeometry x="440" y="452.5" width="258.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-68" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;支付窗口&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="450" width="87" height="30" as="geometry" />
@@ -238,27 +251,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="JFbzTSCU8OPhIG96BT4j-79" target="JFbzTSCU8OPhIG96BT4j-82">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="517" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-79" value="&lt;font style=&quot;font-size: 14px&quot;&gt;GooglePayHelper.querySkuDetails()&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="78" y="509.9999999999999" width="250" height="32.5" as="geometry" />
+          <mxGeometry x="78" y="510" width="262" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JFbzTSCU8OPhIG96BT4j-82" target="JFbzTSCU8OPhIG96BT4j-79">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="531.6470588235295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="534" />
+              <mxPoint x="390" y="534" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-82" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;BillingClient.querySkuDetailsAsync()&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445.75" y="509.37" width="248.5" height="30" as="geometry" />
+          <mxGeometry x="440" y="509.37" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-84" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;查询商品详情&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="510" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="JFbzTSCU8OPhIG96BT4j-86" target="JFbzTSCU8OPhIG96BT4j-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="594" />
+              <mxPoint x="390" y="594" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="JFbzTSCU8OPhIG96BT4j-86" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;PurchaseObservable.savePurchase&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="570" width="248.5" height="30" as="geometry" />
+        <mxCell id="JFbzTSCU8OPhIG96BT4j-86" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;PurchaseObservable.savePurchase()&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="570" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-89" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;订单存储&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="570" width="70" height="30" as="geometry" />
@@ -271,7 +297,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-90" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;BillingClient.consumeAsync()&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="624.5" width="248.5" height="30" as="geometry" />
+          <mxGeometry x="440" y="624.5" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JFbzTSCU8OPhIG96BT4j-93" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;调用GP消耗&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="624.5" width="80" height="30" as="geometry" />
