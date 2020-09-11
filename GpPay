@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T07:31:51.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="9FqnXU-nNiv5i0MNdq0D" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T10:06:40.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="xIkRY7-XJmU4Cfe-epPQ" version="13.6.9" type="github">
   <diagram id="uvZArFeya0xVtIMa75pf" name="Page-1">
-    <mxGraphModel dx="1611" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,8 +283,8 @@
         <mxCell id="qq508iyRkj-bUumv-SE3-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;savePurchase(PurchaseBean)&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-571.75" y="530" width="241.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qq508iyRkj-bUumv-SE3-17" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;会不会漏单&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-812.5" y="397.75" width="92.5" height="30" as="geometry" />
+        <mxCell id="qq508iyRkj-bUumv-SE3-17" value="&lt;b style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;漏单?&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="353.75" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qq508iyRkj-bUumv-SE3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qq508iyRkj-bUumv-SE3-22" target="qq508iyRkj-bUumv-SE3-24">
           <mxGeometry relative="1" as="geometry" />
@@ -368,6 +368,9 @@
         </mxCell>
         <mxCell id="qq508iyRkj-bUumv-SE3-75" value="&lt;font&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;PurchaseObservable&lt;br&gt;.queryPurchase().registerObserver()&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="138" y="730" width="259" height="34.75" as="geometry" />
+        </mxCell>
+        <mxCell id="qq508iyRkj-bUumv-SE3-83" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;支付成功&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.25" y="417.75" width="62.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
