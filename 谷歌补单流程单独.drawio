@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T06:23:22.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="aI4At97-4bXPNpD_JzFK" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T06:26:54.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="so2vP7DR7AIr22fhjCys" version="13.7.4" type="github">
   <diagram id="1cnJid6_njbCuUtxefit" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="scO2GmfYYuCDnMHL7bil-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry y="420" width="770" height="150" as="geometry" />
+          <mxGeometry x="200" y="420" width="570" height="150" as="geometry" />
         </mxCell>
         <mxCell id="scO2GmfYYuCDnMHL7bil-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry y="250" width="760" height="90" as="geometry" />
+          <mxGeometry x="200" y="250" width="560" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GKRDgaswz_O-gcdJ8R2l-1" value="37sdk" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="120" width="100" height="520" as="geometry" />
@@ -155,14 +155,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GKRDgaswz_O-gcdJ8R2l-26" value="发货成功后&lt;br&gt;删除数据库订单" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
-          <mxGeometry x="1" y="61" relative="1" as="geometry">
+          <mxGeometry x="1" y="51" relative="1" as="geometry">
             <mxPoint x="290" y="470" as="sourcePoint" />
             <mxPoint x="290" y="490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="470" />
               <mxPoint x="320" y="490" />
             </Array>
-            <mxPoint x="-60" y="-51" as="offset" />
+            <mxPoint x="-50" y="-41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GKRDgaswz_O-gcdJ8R2l-27" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
@@ -275,15 +275,15 @@
             <mxPoint x="39.17" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GKRDgaswz_O-gcdJ8R2l-43" value="判断支付状态PURCHASED\UNSPECIFIED_STATE" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
-          <mxGeometry x="1" y="140" relative="1" as="geometry">
+        <mxCell id="GKRDgaswz_O-gcdJ8R2l-43" value="判断支付状态" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
+          <mxGeometry x="1" y="40" relative="1" as="geometry">
             <mxPoint x="290" y="250" as="sourcePoint" />
             <mxPoint x="290" y="270" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="250" />
               <mxPoint x="320" y="270" />
             </Array>
-            <mxPoint x="-140" y="-140" as="offset" />
+            <mxPoint x="-40" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GKRDgaswz_O-gcdJ8R2l-44" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
@@ -329,10 +329,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="scO2GmfYYuCDnMHL7bil-3" value="修改1：补单的请求接口" style="text;html=1;strokeColor=#FF0000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="340" width="130" height="20" as="geometry" />
+          <mxGeometry x="70" y="260" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="scO2GmfYYuCDnMHL7bil-4" value="修改2：发货和消耗的逻辑" style="text;html=1;strokeColor=#FF0000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="570" width="150" height="20" as="geometry" />
+          <mxGeometry x="50" y="440" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
